@@ -1,3 +1,11 @@
+# To run this project
+
+First, makes sure web docker and node.js is installed. Then run docker-compose -f docker-compose.yml up 
+
+# Educational Purpose
+
+This project using a reference from https://www.knowledgehut.com/blog/web-development/how-to-dockerize-react-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
